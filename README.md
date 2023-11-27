@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Krishnan</h1>
 <h3 align="center">A passionate frontend, backend developer & graphic designer</h3>
 
-- 🔭 I’m currently working on [Likeminds](https://www.likemindsb2b.com)
+- 🔭 I’m currently working on Inventory Management cum Accounting Software
 
 - 🌱 I’m currently learning **Flutter**
 
